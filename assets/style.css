@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css');
+
+html {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    background-color: #ffffff;
+    color: #383E4B;
+}
+
+body {
+    max-width:950px;
+    margin:auto;
+}
+header {
+    text-align:center;
+}
+header img {
+    max-width:250px;
+    margin:auto;
+    display:block;
+}
+header nav {
+	margin:auto;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+}
+a {
+    color:#0099d1;
+    text-decoration:none;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	border:0;
+	vertical-align: middle;
+}
+.social {
+    font-size:3em;
+    margin:1em;
+    color:#000;
+}
