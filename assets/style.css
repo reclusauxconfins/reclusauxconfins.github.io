@@ -3,19 +3,20 @@
 
 html {
     font-family: 'Lato', Helvetica, Arial, sans-serif;
-    background-color: #ffffff;
     color: #383E4B;
 }
 
 body {
-    max-width:950px;
     margin:auto;
 }
 header {
     text-align:center;
+    background: #ffeeaa;
+    margin:auto;
+    width:100%;
 }
 header img {
-    max-width:250px;
+    max-width:500px;
     margin:auto;
     display:block;
 }
@@ -25,6 +26,11 @@ header nav {
 	flex-direction:row;
 	justify-content:space-around;
 }
+main {
+    max-width:950px;
+    margin:auto;
+}
+
 a {
     color:#0099d1;
     text-decoration:none;
