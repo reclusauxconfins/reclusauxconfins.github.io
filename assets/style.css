@@ -13,10 +13,10 @@ header {
     text-align:center;
     background: #ffeeaa;
     margin:auto;
-    width:50%;
+    width:100%;
 }
 header img {
-    max-width:250px;
+    max-width:500px;
     margin:auto;
     display:block;
 }
