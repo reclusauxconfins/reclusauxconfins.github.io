@@ -20,7 +20,7 @@ header img {
     margin:auto;
     display:block;
 }
-header nav {
+header nav, footer {
 	margin:auto;
 	display:flex;
 	flex-direction:row;
