@@ -7,7 +7,7 @@
 
 # À propos
 
-*Les Reclus aux confins* est un rendez-vous "pandémico-périodiques" de vulgarisation scientifique autour de la géographie organisé par un collectif de doctorants en géographie. Chaque semaine, deux intervenant⋅e⋅s reclus⋅e⋅s aux confins présenteront leur travail en lien avec la géographie, l'aménagement, l'environnement, la cartographie ou la géomatique à un public majoritairement constitué d'étudiant⋅e⋅s. Tous les champs de la discipline sont les bienvenus !
+*Les Reclus aux confins* est un rendez-vous "pandémico-périodique" de vulgarisation scientifique autour de la géographie organisé par un collectif de doctorants en géographie. Chaque semaine, deux intervenant⋅e⋅s reclus⋅e⋅s aux confins présenteront leur travail en lien avec la géographie, l'aménagement, l'environnement, la cartographie ou la géomatique à un public majoritairement constitué d'étudiant⋅e⋅s. Tous les champs de la discipline sont les bienvenus !
 
 Le format : 1h d'émission diffusée en direct sur une chaîne Twitch entre 19h et 20h (UTC+1), deux présentations de vingt minutes suivies de quelques minutes d'échanges avec un "visio-public" *via* le chat. 
 
