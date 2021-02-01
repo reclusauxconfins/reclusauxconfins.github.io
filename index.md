@@ -2,7 +2,7 @@
 
 - Lundi 15 février 2021 (19h-20h) : **Nicolas Roelandt** et **Florian**, contributeur *Géotribu* [géomatique et logiciels libres]
 - Mardi 09 février 2021 (19h-20h) : **Ninon Blond**, ATER en géographie à l'ENS Lyon associée à EVS et Archoérient : "Noms de lieux ! Quand les toponymes traduisent les changements environnementaux (Tigray, Éthiopie)" et **Hugo Jantzi**, post-doc à l'UMR GEODE : "Extraction de granulats et conséquences environnementales en moyenne Garonne toulousaine".
-- Mardi 02 février 2021 (19h-20h) : **Sonia Veyssière**, doctorante en économie circulaire, et **Etienne Delay**, chercheur à l'UMR SENS, CIRAD (ex UPR GREEN) et accueilli à l'École Polytechnique de Dakar : "La modélisation d'accompagnement, une posture de recherche et de développement".
+- Mardi 02 février 2021 (19h-20h) : **Sonia Veyssière**, doctorante à l'ADEME : "Les territoires de l'économie circulaire", et **Etienne Delay**, chercheur à l'UMR SENS, CIRAD (ex UPR GREEN) et accueilli à l'École Polytechnique de Dakar : "La modélisation d'accompagnement, une posture de recherche et de développement".
 - Mardi 26 janvier 2021 (19h-20h) : **Gaëlle Sutton** ([site web](https://gaellesutton.fr/)) nous parlera de cartographie en freelance et **Delphine Montagne** (IE CNRS UMR TREE/Université de Pau) abordera les œufs de Pâques cartographiques.
 
 # À propos
