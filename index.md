@@ -1,6 +1,6 @@
 # Calendrier
 
-- Mardi 22 février 2021 (19h-20h) : programme à venir
+- Mardi 22 février 2021 (19h-20h) : **Boris Mericskay**, MCF en géographie à l'université Rennes 2 : *"Cartographier les données ouvertes pour donner à voir les territoires"* et Bastien Nguyen, co-fondateur de [*La TeleScop*](https://www.latelescop.fr/) : titre à venir
 - Lundi 15 février 2021 (19h-20h) : **Nicolas Roelandt** et **Florian**, contributeur [*Géotribu*](https://static.geotribu.fr/) : *"Géomatique et Logiciels libres"*.
 - Mardi 09 février 2021 (19h-20h) : **Ninon Blond**, ATER en géographie à l'ENS Lyon associée aux UMR EVS et Archoérient : *"Noms de lieux ! Quand les toponymes traduisent les changements environnementaux (Tigray, Éthiopie)"* et **Hugo Jantzi**, post-doc à l'UMR GEODE : *"Extraction de granulats et conséquences environnementales en moyenne Garonne toulousaine"*.
 - Mardi 02 février 2021 (19h-20h) : **Sonia Veyssière**, doctorante à l'ADEME : *"Les territoires de l'économie circulaire"*, et **Etienne Delay**, chercheur à l'UMR SENS, CIRAD (ex UPR GREEN) et accueilli à l'École Polytechnique de Dakar : *"La modélisation d'accompagnement, une posture de recherche et de développement"*.
