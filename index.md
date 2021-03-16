@@ -2,9 +2,10 @@
 
 ## Saison 2
 
+- Mardi 13 avril 2021 (19h-20h) : émission "géographie et cinéma" avec **Manouk Borzakian** et **Nashidil Rouiaï** (MCF Université de Bordeaux/ISVV).
 - Mardi 6 avril 2021 (19h-20h) : **Zeid A. Kassouha**, chercheur associé à l'UMR ESPACE-DEV : *"Tourisme et géopolitique : repenser le tourisme dans un contexte de conflit armé (exemple de la Syrie)"* et **Antonin Van-Der-Straeten**, M2 Géosphères - Université Savoie Mont Blanc : *"Le Tour fait-il toujours le Tour de la France ? Trajectoires géographiques et politiques publiques d'un événement mondialisé."*.
 - Mardi 30 mars 2021 (19h-20h) : émission "insularité"
-- Mardi 23 mars 2021 (19h-20h) : **Michaël Galien**, Chargé de mission SI à la direction routes et bâtiments du Gard : *"Osez PostgreSQL/Postgis pour vos géo-traitements"* et **Nicolas Rochard**, XXX : *"Occupation du sol et analyse de la consommation des espaces. Quelles données pour quels usages ?"*.
+- Mardi 23 mars 2021 (19h-20h) : **Michaël Galien**, Chargé de mission SI à la direction routes et bâtiments du Gard : *"Osez PostgreSQL/Postgis pour vos géo-traitements"* et **Nicolas Rochard**, expert SIG, pôle terre hydrologie, CLS (Lille) : *"Occupation du sol et analyse de la consommation des espaces. Quelles données pour quels usages ?"*.
 - Mardi 16 mars 2021 (19h-20h) : **Angèle Proust**, doctorante en géographie à l'université Paris 1/UMR PRODIG : *"La réappropriation du droit à l'alimentation par l'agriculture urbaine à São Paulo"* et **Iwan Le Clec'h**, géographe et Docteur en urbanisme : *"L'évolution des pratiques commerciales hors des grandes métropoles"*.
 
 ## Saison 1
